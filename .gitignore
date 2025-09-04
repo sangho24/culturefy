@@ -1,0 +1,10 @@
+# Ignore large data directories
+extracted_text/
+korea_db/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Spark log files
+*.log
